@@ -1,3 +1,5 @@
+** WORK IN PROGRESS - no releases yet **
+
 django-odata
 ============
 
